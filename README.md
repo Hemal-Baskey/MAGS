@@ -1,4 +1,4 @@
-# OMR (Optical Mark Recognition) System
+# MCQ Automatic Grading System
 
 This system automatically grades multiple-choice answer sheets using computer vision.
 
